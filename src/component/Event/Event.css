@@ -1,0 +1,18 @@
+.singleEvent{
+    padding:0px;
+    min-height: 300PX;
+}
+.event{
+    background-color: salmon;
+    margin-bottom: 4rem;
+    border:1px solid #666;
+    border-radius:12px;
+}
+.title{
+    font-size : 22px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    text-decoration: none!important; ;
+}

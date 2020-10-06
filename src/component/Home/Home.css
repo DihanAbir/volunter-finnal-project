@@ -1,0 +1,32 @@
+.Banner {
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(194, 189, 189, 0.747), rgba(224, 220, 220, 0.61)),
+    url('../../resource/images/extraVolunteer.png') ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    width:400px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid rgb(168, 165, 165);
+    outline:none;
+    transition: .5s ease-in-out;
+    margin-bottom: 7rem!important ;
+}
+input:focus{
+    border: 0px;
+    border-bottom: 2px solid rgb(21, 146, 155);
+}
+.searchbar {
+    padding:80px;
+    margin:20px 0px  50px 0px;
+}
+.searchbar h3{
+    font-family: serif;
+    color: rgb(2, 2, 2);
+}
+.eventlist{
+    margin:-10rem 40px 40px!important;
+}

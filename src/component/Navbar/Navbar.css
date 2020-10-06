@@ -1,0 +1,40 @@
+.logo{
+    width:200px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    justify-content: center;
+    transform: translateY(50%);
+    margin-right: 20px;
+}
+ 
+ul li .navlink{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s ease-out;
+
+}
+ul li .navlink:hover  {
+    color: #666;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none
+}
+.color-black{
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+}
+.color-black:hover{
+    color: rgb(53, 51, 51);
+    text-decoration:none
+}
+
+
+.btn{
+    padding:10px 25px;
+    margin:10px 5px;
+}

@@ -1,0 +1,26 @@
+.login-section{
+    text-align: center;
+    margin-top:5rem;
+    position: relative;
+}
+
+img{
+    width:13rem;
+}
+.post{
+    position: absolute;
+    transform: translate(200%, 10%);
+    align-items: center;
+    width:20%;
+    padding:10px;
+    border:3px solid #666;
+    border-radius:15px;
+}
+.post h3, .post p{
+    font-family: serif;
+    margin: 20px 0px;
+}
+.back{
+    color: black!important;
+    background-color: salmon!important;
+}
